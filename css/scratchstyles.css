@@ -155,3 +155,7 @@ p {
 .lispan {
     font-weight: bolder;
 }
+
+div {
+    position: relative;
+}
